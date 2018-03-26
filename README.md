@@ -10,7 +10,7 @@
     3.按重量计费
     4.按时间计费
 ## 预览   
-  ！[img](https://github.com/all3nyuan/delivery/raw/master/demo.gif)
+  [动图预览](https://github.com/all3nyuan/delivery/raw/master/demo.gif)
 ## 所用技术
     客户端：开发平台：Android；IOS；开发语言：Html5；PHP；objective-c；javascript；技术框架：jquery mobile；angularjs；reactjs
     服务器端：开发平台：windows；开发语言：PHP；数据库:Mysql

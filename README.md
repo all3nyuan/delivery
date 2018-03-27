@@ -12,7 +12,9 @@
 ### 预览 
 **演示内容为app主要功能**  
 
-  <div align=center>![delivery-demo.gif](https://github.com/all3nyuan/delivery/raw/master/delivery-demo.gif)</div>
+  <div align=center>
+  <img src="https://github.com/all3nyuan/delivery/raw/master/delivery-demo.gif"/>
+  </div>
 
 
 

@@ -10,7 +10,7 @@
   * 按重量计费
   * 按时间计费
 ### 预览   
-  ！[delivery-demo.gif](https://github.com/all3nyuan/delivery/raw/master/delivery-demo.gif)
+  ！ [delivery-demo.gif](https://github.com/all3nyuan/delivery/raw/master/delivery-demo.gif)
 
 
 

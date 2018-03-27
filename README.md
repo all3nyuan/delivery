@@ -10,8 +10,9 @@
   * 按重量计费
   * 按时间计费
 ### 预览 
-演示内容为app主要功能  
-  ![delivery-demo.gif](https://github.com/all3nyuan/delivery/raw/master/delivery-demo.gif)
+**演示内容为app主要功能**  
+
+  <div align=center>![delivery-demo.gif](https://github.com/all3nyuan/delivery/raw/master/delivery-demo.gif)</div>
 
 
 

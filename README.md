@@ -10,7 +10,7 @@
   * 按重量计费
   * 按时间计费
 ### 预览   
-  [在线动图预览(演示内容为app主要功能)](https://github.com/all3nyuan/delivery/raw/master/delivery-demo.gif)
+  ！[delivery-demo.gif](https://github.com/all3nyuan/delivery/raw/master/delivery-demo.gif)
 
 
 
